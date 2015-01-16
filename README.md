@@ -1,2 +1,2 @@
 # hello-world
-Initial depository 
+Initial repository 
